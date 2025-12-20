@@ -1,0 +1,4 @@
+IP_Address,Attempts,Attack_Type,Blacklisted
+45.33.12.89,3,SSH Brute Force,YES
+103.21.244.1,1,SSH Brute Force,NO
+192.168.1.10,3,Possible DoS / Scanning,NO
